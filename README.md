@@ -1,3 +1,3 @@
 # URDS
 Coming soon ... 
-The full Code will be made after the paper is published. ^_^
+The full Code will be made after the paper is published.
